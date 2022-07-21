@@ -1,0 +1,38 @@
+body{
+  background-image: url("Images/bg-3.jpg");
+  /* background-size: cover; */
+  padding-top: 110px;
+  display: inline-block;
+
+}
+a{
+display: inline-block;
+ transform: rotate(180deg);
+ color:#00FFFF;
+ margin-top: 20px;
+ margin-bottom: 80px;
+ margin-left: 5px;
+ margin-right: 5px;
+ font-size: 25px;
+ padding-right: 20px;
+ border-top: 50px;
+
+}
+.fixed{
+  display: inline-block;
+  transform: rotate(90deg);
+}
+.navbar{
+  margin-top: 169px;
+  margin-left: -105px;
+  margin-right: 10px;
+}
+hr{
+  display: inline;
+  transform: rotate(20);
+}
+p{
+  color:#00ffff;
+  font-size: 30px;
+  text-align: center;
+}
